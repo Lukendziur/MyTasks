@@ -1,0 +1,17 @@
+[
+    {
+        "titulo": "Repasar JS",
+        "estado": "Pendiente"    
+    },
+
+    {
+        "titulo" :"Terminar de leer para el Seminario",
+        "estado" : "Pendiente"
+    
+    },
+
+    {
+        "titulo" : "Terminar Juegos de Estrategia",
+        "estado" : "Finalizado"
+    }
+]
